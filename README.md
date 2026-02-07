@@ -1,0 +1,2 @@
+# greet
+greeting script
